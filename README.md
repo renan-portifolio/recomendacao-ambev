@@ -32,6 +32,8 @@ https://www.youtube.com/watch?v=aeK6-kPhofk
 Como instalar o Jupyter Notebook:
 https://www.youtube.com/watch?v=_eK0z5QbpKA
 
+No script, irá ter funções que irão criar arquivos com extensão .csv para utilizarmos no próprio script como uma forma de limpeza de dados ou usar como base no script do Python. É necessário configurar o diretório também, conforme feito na função setwd() no R.
+
 # LinkedIn
 Renan Craveiro de Oliveira:
 https://www.linkedin.com/in/renan-craveiro-de-oliveira-942558212/
