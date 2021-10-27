@@ -12,7 +12,7 @@ A proposta foi segmentada em três partes distintas, a primeira parte pensamos e
 # Informações Técnicas
 # Fluxograma do Sistema de Recomendação
 Como o sistema de recomendação irá funcionar:
-
+![rec](https://user-images.githubusercontent.com/93278132/139160516-e86a2f2f-5e78-4c0c-bbc3-7bc99a694847.jpg)
 # Pré requisitos
 •	Máquina que foi desenvolvida a solução:
 Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz   1.99 GHz
