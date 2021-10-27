@@ -25,6 +25,12 @@ No R: dplyr, lubridate, ggplot2, arules, arulesSequences, RColorBrewer, readr, t
 No Python: numpy, pandas, matplotlib, keras, tensorflow
 
 # Processo de instalação e execução
+Primeiro passo necessário é a instalação do RStudio. Com as instalações feitas o primeiro algoritmo a ser executado é o recomendação direta e apriori, depois pode ser executado o algoritmo canibalização e depois recomendação prepara rnn, para podermos trabalhar com o arquivo gerado em Python. Após isso, fazer instalação do jupyter notebook para executar o código de recomendação sazonal feito com rede neural.
+É necessário lembrar que deve ser criado um diretório no C: com nome da pasta FCD, VendaCruzada e dentro dela VendaCruzada e outra pasta sistemaRecomendacao ou mudar o diretório no script
+Como instalar o Rstudio:
+https://www.youtube.com/watch?v=aeK6-kPhofk
+Como instalar o Jupyter Notebook:
+https://www.youtube.com/watch?v=_eK0z5QbpKA
 
 # LinkedIn
 Renan Craveiro de Oliveira:
